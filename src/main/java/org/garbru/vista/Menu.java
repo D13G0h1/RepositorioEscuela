@@ -7,8 +7,7 @@ public class Menu
     public static void principal( )
     {
         System.out.println("¡HI :D!");
-        System.out.println("And welcome to..");
-        System.out.println("PROGRAMA DE FIGURAS");
+        System.out.println("And welcome to... ¡FIGURAS+++++++!");
         System.out.println("SELECCIONA UNA OPCION");
         System.out.println("1.- Cuadrado");
         System.out.println("2.- Equilatero");
